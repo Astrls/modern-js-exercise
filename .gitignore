@@ -1,0 +1,3 @@
+config.js // To hide any confidential keys
+ .vscode // Depending on your IDE
+ .DS_Store // OS specific files (this one if for Mac)
